@@ -17,7 +17,7 @@ public class Main {
 
         if (regler.equals("R")){
             System.out.println("Det här spelet är ett tärningsspel. Max antal spelare är 2.");
-            System.out.println("Varje spelare har får slå tärningen 2 gånger.");
+            System.out.println("Varje spelare får slå tärningen 2 gånger.");
             System.out.println("Slå tärningen med hjälp av Retur-knappen.");
             System.out.println("Spelaren som får högst antal totala poäng vinner!");
             System.out.println("Spelet startar nu...");
